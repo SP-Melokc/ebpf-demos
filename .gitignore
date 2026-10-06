@@ -1,0 +1,10 @@
+# 构建产物
+*.o
+execve_loader
+trace_loader
+*_loader
+
+# 临时/草稿
+_parsetest.c
+*.swp
+*.tmp
